@@ -1,0 +1,6 @@
+server:
+  error:
+    whitelabel:
+      enabled: false
+    include-message: always
+  port: 8181
